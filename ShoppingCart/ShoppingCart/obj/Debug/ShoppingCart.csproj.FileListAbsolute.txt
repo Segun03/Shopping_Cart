@@ -1,0 +1,10 @@
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.Form1.resources
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.Properties.Resources.resources
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\Codetech\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
